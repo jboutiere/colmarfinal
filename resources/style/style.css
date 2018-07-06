@@ -168,7 +168,7 @@ a {
     background-color: lightgray;
     justify-content: center;
     display: flex;
-    text-align: center;
+    text-align: left;
     max-width: 100%;
     margin: 0 auto;
     background-color: inherit;
